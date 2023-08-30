@@ -35,7 +35,7 @@ Link : [Model Training Notebook](./notebook/2_Model_Training_Gemstone.ipynb)
 # Model Interpretation with LIME 
 
 Link : [LIME Interpretation](./notebook/3_Explainability_with_LIME.ipynb)
-"""""""""""""""""""""
+
 ## Loan Approval Prediction - Random Forest Model and Deployed Web App
 
 ## Project Purpose: 
