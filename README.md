@@ -1,4 +1,4 @@
-# Company_Bankruptcy_Prediction by Tushar Aggarwal 
+# Company Bankruptcy Prediction
 
 # Approach for the project 
 
