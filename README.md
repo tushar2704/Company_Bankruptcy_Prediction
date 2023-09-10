@@ -1,4 +1,4 @@
-# Company Bankruptcy Prediction with MlFLOW and deployment in EC2
+# Company Bankruptcy Prediction with Mlflow and deployment in EC2
 
 # Approach for the project 
 
