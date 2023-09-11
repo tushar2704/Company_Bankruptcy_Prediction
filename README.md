@@ -1,6 +1,6 @@
 # Company Bankruptcy Prediction with Mlflow and deployment in EC2
 
-# Approach for the project 
+
 
 1. Data Ingestion : 
     * In Data Ingestion phase the data is first read as csv. 
